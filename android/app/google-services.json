@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867888549559",
+    "firebase_url": "https://cruxtest-2020.firebaseio.com",
+    "project_id": "cruxtest-2020",
+    "storage_bucket": "cruxtest-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867888549559:android:d6964f242c66fbd8d90732",
+        "android_client_info": {
+          "package_name": "cruxtest.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867888549559-3loho9kuf052bnvn9iomd22bvda9o3gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cruxtest.com",
+            "certificate_hash": "8233574a8834d5116b14e9529c0e27a8b08392eb"
+          }
+        },
+        {
+          "client_id": "867888549559-hu65tbh58l5ec5dcu98bej89e5lpvmd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5-p6kEPb2sOpR3m9fe2YYcgy4fw3WUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867888549559-hu65tbh58l5ec5dcu98bej89e5lpvmd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
