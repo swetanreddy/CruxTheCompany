@@ -1,6 +1,6 @@
 # com
 
-A new Flutter application.
+A new Flutter applications.
 
 ## Getting Started
 
